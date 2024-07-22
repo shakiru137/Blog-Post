@@ -55,10 +55,6 @@ Implementing secure user authentication was a major challenge, resolved by confi
 
 Feel free to provide feedback or suggest improvements. If you have any questions or would like to collaborate, please reach out to me via LinkedIn or email.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for reading about my journey in building Pure Bank. I look forward to connecting with you and exploring future projects!
